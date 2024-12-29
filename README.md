@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naijaoracle
-- 👀 My area of interest is Digital health and Artificial intelligence
+- 👀 My area of interest is Digital Health and Artificial Intelligence
 - 👨🏽‍⚕️ Medical Doctor working in clinical settings since August 2018
-- 👨🏽‍🎓 MSc Digital Health & Artificial Intelligence (expected September 2024)
+- 👨🏽‍🎓 MSc Digital Health & Artificial Intelligence
 - 🌱 My motto is "learning, growing, improving".
 - 💞️ I’m looking to collaborate on projects, especially those with a healthcare angle
 - 📫 The way to to reach me is via my inbox
